@@ -23,7 +23,7 @@ All you have to do it click the link and type in a city!
 
 Once you click the link add a city of your choosing and press the search icon. It will show you the 5 day forecast and it will save any previous searches. To get to the previous searches just click on the name of that city on the left side of the screen
 ```md
-![alt text](assets/images/Screenshot 2023-12-07 at 12.16.53 PM.png)
+![alt text](assets/images/Screenshot.png)
 ```
 
 
